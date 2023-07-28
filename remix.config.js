@@ -14,4 +14,10 @@ module.exports = {
     v2_normalizeFormMethod: true,
     v2_routeConvention: true,
   },
+  serverDependenciesToBundle: [
+    /^@dopt\/react-tour/,
+    /^@dopt\/react-rich-text/,
+    /^@dopt\/react-theme/,
+    /^@dopt\/core-theme/,
+  ],
 };
