@@ -8,9 +8,9 @@
     "typecheck": "tsc"
   },
   "dependencies": {
-    "@dopt/core-theme": "^1.0.0",
-    "@dopt/react": "^3.0.5",
-    "@dopt/react-tour": "^3.0.0",
+    "@dopt/core-theme": "^2.0.0",
+    "@dopt/react": "^3.0.6",
+    "@dopt/react-tour": "^4.0.1",
     "@remix-run/css-bundle": "^1.19.1",
     "@remix-run/node": "^1.19.1",
     "@remix-run/react": "^1.19.1",
